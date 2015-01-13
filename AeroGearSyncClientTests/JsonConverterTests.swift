@@ -8,7 +8,7 @@
 import UIKit
 import XCTest
 import AeroGearSyncClient
-//import AeroGearSync
+import AeroGearSync
 
 class JsonConverterTests: XCTestCase {
 
